@@ -1,0 +1,10 @@
+customtkinter
+yfinance
+pandas
+numpy
+matplotlib
+mplfinance
+ollama
+requests
+feedparser
+packaging
