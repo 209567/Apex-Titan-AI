@@ -34,7 +34,7 @@ Built-in calculator that adjusts position sizing based on account balance and st
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/209567/Apex-Titan-AI.git
+   git clone https://github.com/Zeros-CodeXD/Apex-Titan-AI.git
    cd Apex-Titan-AI
    ```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2F209567%2FApex-Titan-AI)]
 
