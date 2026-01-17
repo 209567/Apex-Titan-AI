@@ -58,3 +58,4 @@ Built-in calculator that adjusts position sizing based on account balance and st
 
 ## 🔐 Demo License Key:
 To test the application, use the developer key: TITAN-KEY-2025
+Note: the license key is hardcoded as TITAN-KEY-2025 for easy testing.
