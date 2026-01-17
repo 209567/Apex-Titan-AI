@@ -1,4 +1,4 @@
-# 🦅 "A Privacy-First Financial Analysis Terminal. (Not related to the video game Apex Legends)."
+# 🦅 A Privacy-First Financial Analysis Terminal. (Not related to the video game Apex Legends).
 
 <!-- UPLOAD A SCREENSHOT OF THE DASHBOARD HERE -->
 ![Apex Titan Dashboard](https://github.com/Zeros-CodeXD/Apex-Titan-AI/blob/main/dashboard.png)
