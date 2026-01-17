@@ -36,10 +36,25 @@ Built-in calculator that adjusts position sizing based on account balance and st
    ```bash
    git clone https://github.com/Zeros-CodeXD/Apex-Titan-AI.git
    cd Apex-Titan-AI
-   ```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2F209567%2FApex-Titan-AI)]
+   ```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FZeros-CodeXD%2FApex-Titan-AI)]
 
-2. **Install Dependencies (CRITICAL)**
+2. **Install Python Dependencies**
    ```bash
    pip install -r requirements.txt
+   ```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FZeros-CodeXD%2FApex-Titan-AI)]
+
+3. **⚡ IMPORTANT: Setup AI Engine**
+   This app uses **Ollama** for local intelligence.[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FZeros-CodeXD%2FApex-Titan-AI)]
+   - Download Ollama from [ollama.com](https://ollama.com)[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FZeros-CodeXD%2FApex-Titan-AI)]
+   - Open your terminal and run:
+     ```bash
+     ollama run phi3.5
+     ```
+   *(Without this step, the AI Analyst feature will not work)*[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FZeros-CodeXD%2FApex-Titan-AI)]
+
+4. **Launch the Terminal**
+   ```bash
+   python APEX_TITAN.py
+
 ## 🔐 Demo License Key:
 To test the application, use the developer key: TITAN-KEY-2025
